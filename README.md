@@ -19,7 +19,7 @@ I'm passionate about building quality-driven software by combining automation an
 
 ## 📁 Featured Work
 
-- **🧰 [QA Portfolio Repo](https://github.com/micharemu/qa-portfolio)**  
+- **🧰 [QA Portfolio Repo](https://github.com/Micharemu/TestAutomationProject.git)**  
   Real-world test cases, API collections, SQL validation, automation scripts
 
 ---
