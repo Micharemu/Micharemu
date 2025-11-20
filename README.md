@@ -54,24 +54,33 @@ I work comfortably with **remote teams**, CI/CD workflows, and modern testing to
 
 ## 📌 Featured Projects
 
-### 🔹 **TestAutomationProject**  
-End-to-end testing for e-commerce flows + API test suite  
-🔗 **Repo:** https://github.com/Micharemu/TestAutomationProject  
-🧪 Includes:
-- Cypress UI automation  
-- Postman/Newman API tests  
-- GitHub Actions CI  
+### 🔹 E-Commerce Web Application QA  
+End-to-end QA for e-commerce flows (login, cart, checkout) with Cypress + manual test cases.  
+🔗 Repo: https://github.com/Micharemu/ecommerce-webapp-qa  
 
 ---
 
-### 🔹 **Cypress_Mouse_Hover_Test_Cases**  
-Cypress automation for hover elements, dropdowns, and tooltip behaviour  
-🔗 **Repo:** https://github.com/Micharemu/Cypress_Mouse_Hover_Test_Cases  
-🧪 Includes:
-- Hover interactions  
-- Tooltip tests  
-- Dropdown behaviour automation  
+### 🔹 REST API Testing Framework  
+Postman + Newman framework for REST API testing with CI integration.  
+🔗 Repo: https://github.com/Micharemu/api-testing-framework  
 
+---
+
+### 🔹 Authentication & Role-Based Access (Cypress Suite)  
+Cypress automation for login, reset password, and role-based access control.  
+🔗 Repo: https://github.com/Micharemu/auth-role-access-cypress  
+
+---
+
+### 🔹 Academic Web Apps – QA Lead Work  
+Documentation, test cases, and QA artefacts from multiple academic web projects.  
+🔗 Repo: https://github.com/Micharemu/academic-webapps-qa  
+
+---
+
+### 🔹 Cypress Mouse Hover Test Cases (Bonus UI Automation)  
+Focused Cypress automation project for hover effects, dropdowns, and tooltips.  
+🔗 Repo: https://github.com/Micharemu/Cypress_Mouse_Hover_Test_Cases
 ---
 
 ### 🔹 **QA Portfolio Website**  
