@@ -78,9 +78,10 @@ Documentation, test cases, and QA artefacts from multiple academic web projects.
 
 ---
 
-### 🔹 Cypress Mouse Hover Test Cases (Bonus UI Automation)  
+### 🔹 Cypress Mouse Hover Test Cases  
 Focused Cypress automation project for hover effects, dropdowns, and tooltips.  
 🔗 Repo: https://github.com/Micharemu/Cypress_Mouse_Hover_Test_Cases
+
 ---
 
 ### 🔹 **QA Portfolio Website**  
