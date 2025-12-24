@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I am a **Quality Assurance Tester** with 3+ years of experience in **manual testing, automation, API testing, and Agile collaboration**.  
+I am a **Quality Assurance Tester** with 2+ years of experience in **manual testing, automation, API testing, and Agile collaboration**.  
 I enjoy breaking things, improving things, and ensuring users never experience bugs that could have been caught before release.
 
 My projects include **Cypress automation suites**, **REST API testing frameworks**, and full-stack QA coverage for web apps.
