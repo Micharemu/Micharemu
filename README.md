@@ -59,6 +59,7 @@ Below are selected end-to-end Quality Assurance projects demonstrating my experi
 🛒 1. E-Commerce Web Application QA
 
 Manual & Automation Testing (Cypress, Postman)
+
 🔗 https://github.com/micharemu/ecommerce-qa
 
 End-to-end quality assurance of a simulated e-commerce web application, covering critical user journeys such as authentication, product browsing, cart management, and checkout.
@@ -66,13 +67,9 @@ End-to-end quality assurance of a simulated e-commerce web application, covering
 Highlights
 
 Designed and executed 120+ manual test cases covering UI, validation, and business flows
-
 Automated core user journeys using Cypress with reusable Page Object Model
-
 Performed API testing on authentication, product, and order endpoints using Postman
-
 Logged detailed defects with clear reproduction steps, severity, and expected vs actual results
-
 Tools: Cypress · Postman · JavaScript · Jira · Regression Testing
 
 🔌 2. REST API Testing Framework
