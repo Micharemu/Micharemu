@@ -64,10 +64,15 @@ Manual & Automation Testing (Cypress, Postman)
 End-to-end quality assurance of a simulated e-commerce web application, covering critical user journeys such as authentication, product browsing, cart management, and checkout.
 
 **Highlights**
--Designed and executed 120+ manual test cases covering UI, validation, and business flows
--Automated core user journeys using Cypress with reusable Page Object Model
--Performed API testing on authentication, product, and order endpoints using Postman
--Logged detailed defects with clear reproduction steps, severity, and expected vs actual results
+
+Designed and executed 120+ manual test cases covering UI, validation, and business flows
+
+Automated core user journeys using Cypress with reusable Page Object Model
+
+Performed API testing on authentication, product, and order endpoints using Postman
+
+Logged detailed defects with clear reproduction steps, severity, and expected vs actual results
+
 **Tools:** Cypress · Postman · JavaScript · Jira · Regression Testing
 
 ### **🔌 2. REST API Testing Framework**
