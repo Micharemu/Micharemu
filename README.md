@@ -59,7 +59,7 @@ Below are selected end-to-end Quality Assurance projects demonstrating my experi
 ### **🛒 1. E-Commerce Web Application QA**
 
 Manual & Automation Testing (Cypress, Postman)
-🔗 https://github.com/micharemu/ecommerce-qa-testing
+🔗 https://github.com/micharemu/ecommerce-qa
 
 End-to-end quality assurance of a simulated e-commerce web application, covering critical user journeys such as authentication, product browsing, cart management, and checkout.
 
@@ -78,7 +78,7 @@ Logged detailed defects with clear reproduction steps, severity, and expected vs
 ### **🔌 2. REST API Testing Framework**
 
 Postman · Newman · GitHub Actions (CI/CD)
-🔗 https://github.com/micharemu/rest-api-testing-framework
+🔗 https://github.com/micharemu/api-testing-framework
 
 A reusable and CI-enabled API testing framework for validating RESTful services with automated reporting.
 
