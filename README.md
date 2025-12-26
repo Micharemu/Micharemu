@@ -52,34 +52,32 @@ I work comfortably with **remote teams**, CI/CD workflows, and modern testing to
 
 ---
 
-📌 **Featured QA Projects**
+### 📌 **Featured QA Projects**
 
 Below are selected end-to-end Quality Assurance projects demonstrating my experience across manual testing, automation, API validation, CI/CD, and QA documentation, using real-world workflows and tools.
 
-🛒 1. E-Commerce Web Application QA
+### **🛒 1. E-Commerce Web Application QA**
 
 Manual & Automation Testing (Cypress, Postman)
-
-🔗 https://github.com/micharemu/ecommerce-qa
+🔗 https://github.com/micharemu/ecommerce-qa-testing
 
 End-to-end quality assurance of a simulated e-commerce web application, covering critical user journeys such as authentication, product browsing, cart management, and checkout.
 
-Highlights
+**Highlights**
+-Designed and executed 120+ manual test cases covering UI, validation, and business flows
+-Automated core user journeys using Cypress with reusable Page Object Model
+-Performed API testing on authentication, product, and order endpoints using Postman
+-Logged detailed defects with clear reproduction steps, severity, and expected vs actual results
+**Tools:** Cypress · Postman · JavaScript · Jira · Regression Testing
 
-Designed and executed 120+ manual test cases covering UI, validation, and business flows
-Automated core user journeys using Cypress with reusable Page Object Model
-Performed API testing on authentication, product, and order endpoints using Postman
-Logged detailed defects with clear reproduction steps, severity, and expected vs actual results
-Tools: Cypress · Postman · JavaScript · Jira · Regression Testing
-
-🔌 2. REST API Testing Framework
+### **🔌 2. REST API Testing Framework**
 
 Postman · Newman · GitHub Actions (CI/CD)
-🔗 https://github.com/micharemu/api-testing-framework
+🔗 https://github.com/micharemu/rest-api-testing-framework
 
 A reusable and CI-enabled API testing framework for validating RESTful services with automated reporting.
 
-Highlights
+**Highlights**
 
 Built structured Postman collections covering authentication, CRUD operations, error handling, and edge cases
 
@@ -89,16 +87,16 @@ Integrated Newman with GitHub Actions to run API tests automatically on every pu
 
 Generated machine-readable and HTML reports for tracking API quality over time
 
-Tools: Postman · Newman · GitHub Actions · REST APIs · CI/CD
+**Tools:** Postman · Newman · GitHub Actions · REST APIs · CI/CD
 
-⚡ 3. Performance & Load Testing
+### **⚡ 3. Performance & Load Testing**
 
 k6 · JMeter · Performance Analysis
 🔗 https://github.com/micharemu/performance-load-testing
 
 A performance testing project focused on evaluating system behavior under load, stress, and peak traffic conditions.
 
-Highlights
+**Highlights**
 
 Designed load, stress, and spike test scenarios for critical API endpoints
 
@@ -108,16 +106,16 @@ Identified performance bottlenecks and scalability risks under increasing load
 
 Produced clear performance reports with metrics, graphs, and optimization recommendations
 
-Tools: k6 · JMeter · Performance Testing · Load Testing · Test Reporting
+**Tools:** k6 · JMeter · Performance Testing · Load Testing · Test Reporting
 
-🧪 4. Full-Stack QA Automation Suite
+### **🧪 4. Full-Stack QA Automation Suite**
 
 Cypress · Playwright · Postman · CI/CD
 🔗 https://github.com/micharemu/full-qa-suite
 
 A comprehensive QA automation suite demonstrating real-world testing across UI, API, documentation, and CI pipelines.
 
-Highlights
+**Highlights**
 
 Implemented a mock REST API to simulate backend services for independent testing
 
@@ -129,7 +127,7 @@ Authored professional QA documentation including test plans, strategies, test ca
 
 Integrated automated test execution with GitHub Actions for continuous quality checks
 
-Tools: Cypress · Playwright · Postman · JavaScript · CI/CD · QA Documentation
+**Tools:** Cypress · Playwright · Postman · JavaScript · CI/CD · QA Documentation
 
 
 ---
