@@ -52,7 +52,7 @@ I work comfortably with **remote teams**, CI/CD workflows, and modern testing to
 
 ---
 
-📌 Featured QA Projects
+📌 **Featured QA Projects**
 
 Below are selected end-to-end Quality Assurance projects demonstrating my experience across manual testing, automation, API validation, CI/CD, and QA documentation, using real-world workflows and tools.
 
